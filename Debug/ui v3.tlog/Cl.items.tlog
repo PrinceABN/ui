@@ -1,0 +1,15 @@
+D:\dev\cpp\Intent\ui-framework_v5\entry\cpp\c_main.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\c_main.obj
+D:\dev\cpp\Intent\ui-framework_v5\framework\dependency\animation_controller\animation_controller.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\animation_controller.obj
+D:\dev\cpp\Intent\ui-framework_v5\hooking\cpp\c_hooks.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\c_hooks.obj
+D:\dev\cpp\Intent\ui-framework_v5\sdk\drawing\cpp\c_drawing.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\c_drawing.obj
+D:\dev\cpp\Intent\ui-framework_v5\sdk\input\cpp\c_input.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\c_input.obj
+D:\dev\cpp\Intent\ui-framework_v5\sdk\u-sdk\cpp\c_sdk.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\c_sdk.obj
+D:\dev\cpp\Intent\ui-framework_v5\sdk\warper\cpp\c_device_warper.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\c_device_warper.obj
+D:\dev\cpp\Intent\ui-framework_v5\sdk\warper\cpp\c_windows_sdk_warper.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\c_windows_sdk_warper.obj
+D:\dev\cpp\Intent\ui-framework_v5\thirdparty\imgui\imgui.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\imgui.obj
+D:\dev\cpp\Intent\ui-framework_v5\thirdparty\imgui\imgui_draw.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\imgui_draw.obj
+D:\dev\cpp\Intent\ui-framework_v5\thirdparty\imgui\imgui_freetype.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\imgui_freetype.obj
+D:\dev\cpp\Intent\ui-framework_v5\thirdparty\imgui\imgui_impl_dx9.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\imgui_impl_dx9.obj
+D:\dev\cpp\Intent\ui-framework_v5\thirdparty\imgui\imgui_impl_win32.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\imgui_impl_win32.obj
+D:\dev\cpp\Intent\ui-framework_v5\thirdparty\imgui\imgui_tables.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\imgui_tables.obj
+D:\dev\cpp\Intent\ui-framework_v5\thirdparty\imgui\imgui_widgets.cpp;D:\dev\cpp\Intent\ui-framework_v5\Debug\imgui_widgets.obj
